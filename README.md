@@ -1,1 +1,1 @@
-# eadevs.org
+# eadevs.org (official website)
